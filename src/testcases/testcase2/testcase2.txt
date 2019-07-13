@@ -1,0 +1,1 @@
+[('revenue',10),('profit_revenue',9),('loss_revenue',8),('los_revenue',4),('revenu',7),('profit_revenu',6),('loss_reven',2),('lo_revenue',3),('loss_reve',5),('l_revenue',5),('ank_revn',1)]
